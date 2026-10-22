@@ -1,6 +1,6 @@
 # CGPA Calculator
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Site-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://num-cgpacalculator.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Site-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://num-cgp-acalculator.vercel.app/)
 
 ## Overview
 
